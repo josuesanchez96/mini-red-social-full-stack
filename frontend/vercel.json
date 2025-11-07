@@ -7,8 +7,8 @@
   "regions": ["iad1"],
   "build": {
     "env": {
-      "NEXT_PUBLIC_API_BASE": "@next_public_api_base",
-      "NEXT_PUBLIC_WS_BASE": "@next_public_ws_base"
+      "NEXT_PUBLIC_API_BASE": "https://mini-red-social-full-stack-pge1.onrender.com",
+      "NEXT_PUBLIC_WS_BASE": "wss://mini-red-social-full-stack-pge1.onrender.com"
     }
   }
 }
