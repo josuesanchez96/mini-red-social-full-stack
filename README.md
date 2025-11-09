@@ -850,4 +850,4 @@ Este proyecto fue desarrollado con fines educativos como parte del curso de Desa
 
 ---
 
-*Última actualización: Enero 2025*
+*Última actualización: Noviembre 2025*
